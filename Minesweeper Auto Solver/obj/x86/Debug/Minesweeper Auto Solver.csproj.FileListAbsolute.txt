@@ -1,0 +1,20 @@
+D:\Documents and Settings\GaryNg\Desktop\Minesweeper Auto Solver\Minesweeper Auto Solver\bin\Debug\Minesweeper Auto Solver.exe
+D:\Documents and Settings\GaryNg\Desktop\Minesweeper Auto Solver\Minesweeper Auto Solver\bin\Debug\Minesweeper Auto Solver.pdb
+D:\Documents and Settings\GaryNg\Desktop\Minesweeper Auto Solver\Minesweeper Auto Solver\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\GaryNg\Desktop\Minesweeper Auto Solver\Minesweeper Auto Solver\obj\x86\Debug\Minesweeper_Auto_Solver.frmMain.resources
+D:\Documents and Settings\GaryNg\Desktop\Minesweeper Auto Solver\Minesweeper Auto Solver\obj\x86\Debug\Minesweeper_Auto_Solver.Properties.Resources.resources
+D:\Documents and Settings\GaryNg\Desktop\Minesweeper Auto Solver\Minesweeper Auto Solver\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\GaryNg\Desktop\Minesweeper Auto Solver\Minesweeper Auto Solver\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\GaryNg\Desktop\Minesweeper Auto Solver\Minesweeper Auto Solver\obj\x86\Debug\Minesweeper Auto Solver.exe
+D:\Documents and Settings\GaryNg\Desktop\Minesweeper Auto Solver\Minesweeper Auto Solver\obj\x86\Debug\Minesweeper Auto Solver.pdb
+D:\Documents and Settings\GaryNg\Desktop\Source\Minesweeper Auto Solver\obj\x86\Debug\Minesweeper Auto Solver.exe
+D:\Documents and Settings\GaryNg\Desktop\Source\Minesweeper Auto Solver\obj\x86\Debug\Minesweeper Auto Solver.pdb
+D:\Documents and Settings\GaryNg\Desktop\Source\Minesweeper Auto Solver\bin\Debug\Minesweeper Auto Solver.exe
+D:\Documents and Settings\GaryNg\Desktop\Source\Minesweeper Auto Solver\bin\Debug\Minesweeper Auto Solver.pdb
+D:\Documents and Settings\GaryNg\Desktop\Source\Minesweeper Auto Solver\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\GaryNg\Desktop\Source\Minesweeper Auto Solver\obj\x86\Debug\Minesweeper_Auto_Solver.frmMain.resources
+D:\Documents and Settings\GaryNg\Desktop\Source\Minesweeper Auto Solver\obj\x86\Debug\Minesweeper_Auto_Solver.Properties.Resources.resources
+D:\Documents and Settings\GaryNg\Desktop\Source\Minesweeper Auto Solver\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\GaryNg\Desktop\Source\Minesweeper Auto Solver\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\GaryNg\Desktop\MinesweeperSolver\Minesweeper Auto Solver\obj\x86\Debug\Minesweeper Auto Solver.exe
+D:\Documents and Settings\GaryNg\Desktop\MinesweeperSolver\Minesweeper Auto Solver\obj\x86\Debug\Minesweeper Auto Solver.pdb
